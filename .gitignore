@@ -1,0 +1,13 @@
+.idea
+log
+.DS_Store
+config
+target/
+node_modules/
+dist/
+*.log
+*.iml
+.env
+.env.*
+!.env.example
+*.sql
